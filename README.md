@@ -1,4 +1,4 @@
-# speller
+# Speller
 Repo of the speller assignment from Harvard CS50
 
 Project: Speller| Language: C‍
